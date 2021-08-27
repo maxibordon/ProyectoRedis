@@ -1,6 +1,6 @@
 ## Instrucciones
 
-### Las siguientes dependencias son necesarias para ejecutar el proyecto. 
+### Las siguientes dependencias son necesarias para implementar Redis como cache
 
 - StackExchange.Redis.Extensions.Core
 - StackExchange.Redis.Extensions.AspNetCore
