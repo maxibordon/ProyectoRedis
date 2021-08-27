@@ -1,6 +1,6 @@
 ## Instrucciones
 
-### Instalar las siguientes dependencias en el proyecto por medio de Nuget
+### Las siguientes dependencias son necesarias para ejecutar el proyecto. 
 
 - StackExchange.Redis.Extensions.Core
 - StackExchange.Redis.Extensions.AspNetCore
